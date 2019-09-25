@@ -1,0 +1,25 @@
+.nav-list-item{
+    font-size: large;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.nav-logo{
+    margin:auto;
+    width: fit-content;
+}
+
+.nav-brand{
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar.navbar-expand-lg{
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+}
+
+/*           fim cabeçalho*/
+
+.section-1{
+    background-image: url("../images/bg-site.jpg");
+}
